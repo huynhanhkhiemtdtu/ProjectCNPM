@@ -1,5 +1,3 @@
 void main()
 {
-	cout<<"Xin chao ban";//User2 Them dong xin chao
-	cout<<"Hen gap lai";
-}
+	cout<<"Hello world";// User1 them dong Hello}
